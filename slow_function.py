@@ -16,6 +16,9 @@ for i in range(n):
         print(f(list[i]))
         d[list[i]] = f(list[i])
 
+print(f'the input number is:{n}')
+
+
 
     
     
